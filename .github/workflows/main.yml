@@ -1,7 +1,6 @@
 name: My First Workflow
 
 on: [push]
-  workflow_dispatch: # מאפשר הפעלה ידנית
 
 jobs:
   my_demo_job:
